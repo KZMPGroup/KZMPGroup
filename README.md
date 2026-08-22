@@ -1,60 +1,50 @@
-# Kenzena Mahendra Putra
+<h1 align="center">Kenzena Mahendra Putra</h1>
 
-Web Developer & Network Engineer based in Magetan, Indonesia.
+<p align="center">
+  <strong>Web Developer · Network Engineer</strong><br>
+  Building useful digital products from Magetan, Indonesia.
+</p>
 
-I build web platforms that connect clear user experiences with dependable backend systems and infrastructure. My background in computer hardware, fiber optics, and networking shapes how I approach software: practical, efficient, and ready for real-world use.
+<p align="center">
+  <a href="https://kzmp.my.id">
+    <img src="https://img.shields.io/badge/Portfolio-kzmp.my.id-C66B3D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:kenzenamahendraputra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-606C38?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://instagram.com/kenzena_">
+    <img src="https://img.shields.io/badge/Instagram-@kenzena__-B08B6E?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
-[Portfolio](https://dev.kzmp.my.id) · [Email](mailto:kenzenamahendraputra@gmail.com) · [Instagram](https://instagram.com/kenzena_)
+---
 
-## Selected projects
+## About me
 
-### e-JOLA
+I enjoy turning real problems into digital products that are clear, useful, and dependable. My interests span web development, networking, product design, and the systems that connect them.
 
-A classroom journal, attendance, and learning-monitoring platform for SMKN 2 Magetan. It connects students, subject teachers, duty teachers, guidance counsellors, administrative staff, and SuperAdmins through dynamic QR codes and layered verification.
+## Selected work
 
-### KiosPanel
+| Project | Description | Link |
+| --- | --- | --- |
+| 🎓 **e-JOLA** | Digital learning journal and attendance platform for SMKN 2 Magetan. | Internal project |
+| 📱 **Nomerin** | Virtual-number platform for fast and practical account verification. | [Visit](https://nomerin.id) |
+| 🧩 **KiosPanel** | A simple web platform for managing application services. | [Visit](https://kiospanel.my.id) |
+| 🎟️ **TiketinAE** | Digital ticketing platform built for modern event experiences. | [Visit](https://tiketinae.com) |
 
-A multi-node container management platform connecting a central web panel with KiosPanel Agent. It provides Docker lifecycle controls, real-time console and resource monitoring, file management, automated billing, and resource limits.
+## What I care about
 
-[Visit KiosPanel](https://kiospanel.my.id)
+- Products that solve real needs
+- Clear and thoughtful user experiences
+- Reliable systems that are easy to use
+- Continuous learning across digital and physical technology
 
-### Nomerin
+---
 
-A virtual-number platform for account verification with instant activation, real-time OTP delivery, and local payment support.
+<p align="center">
+  Open to collaboration, meaningful projects, and new opportunities.
+</p>
 
-[Visit Nomerin](https://nomerin.id)
-
-### TiketinAE
-
-An integrated event-ticketing platform for digital ticket distribution, QR-based gate validation, and event access management.
-
-[Visit TiketinAE](https://tiketinae.com)
-
-## Technical focus
-
-- Backend: Python, FastAPI, SQLAlchemy ORM, MariaDB, Redis
-- Frontend: Jinja2, HTMX, Alpine.js, Tailwind CSS
-- Infrastructure: Debian, Docker, OpenResty, Cloudflare, Linux systemd
-- Networking: MikroTik, fiber optics, routing, troubleshooting
-
-## Currently exploring
-
-- Reliable server-side rendered applications with SPA-like interactions
-- Container orchestration and multi-node service management
-- UI/UX systems for responsive web products
-- Network and server performance optimization
-
-## Principles
-
-- Build for actual users and operational constraints
-- Keep interfaces clear and systems maintainable
-- Treat security, performance, and deployment as part of the product
-- Learn across software, hardware, networking, and infrastructure
-
-## Contact
-
-For collaboration, technical projects, or conversations about web systems and infrastructure:
-
-- Email: [kenzenamahendraputra@gmail.com](mailto:kenzenamahendraputra@gmail.com)
-- Portfolio: [dev.kzmp.my.id](https://dev.kzmp.my.id)
-- Instagram: [@kenzena_](https://instagram.com/kenzena_)
+<p align="center">
+  <a href="https://kzmp.my.id"><strong>Explore my portfolio →</strong></a>
+</p>
