@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/KM-KENZENA_MAHENDRA_PUTRA-C66B3D?style=for-the-badge&labelColor=20241F" alt="Kenzena Mahendra Putra">
+<img src="https://img.shields.io/badge/KZMP-KENZENA_MAHENDRA_PUTRA-C66B3D?style=for-the-badge&labelColor=20241F" alt="Kenzena Mahendra Putra">
 
 ### Web Developer &middot; Network Engineer
 
