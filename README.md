@@ -13,6 +13,22 @@ From real-world problems to digital products that feel clear, useful, and depend
 
 <br>
 
+<strong>Expertise</strong>
+
+<br>
+
+<img src="https://img.shields.io/badge/Web_Development-C66B3D?style=flat-square" alt="Web Development">
+<img src="https://img.shields.io/badge/Backend_Systems-606C38?style=flat-square" alt="Backend Systems">
+<img src="https://img.shields.io/badge/Server_%26_Linux-B08B6E?style=flat-square" alt="Server and Linux">
+<img src="https://img.shields.io/badge/Network_Engineering-20241F?style=flat-square" alt="Network Engineering">
+<img src="https://img.shields.io/badge/UI_%26_UX-C66B3D?style=flat-square" alt="UI and UX">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,tailwind,docker,linux,mariadb,redis,nginx,cloudflare&theme=light&perline=10" alt="Python, FastAPI, JavaScript, Tailwind CSS, Docker, Linux, MariaDB, Redis, OpenResty, and Cloudflare">
+
+<br>
+
 <strong>Selected work</strong>
 
 <br>
