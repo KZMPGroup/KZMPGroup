@@ -15,8 +15,6 @@ From real-world problems to digital products that feel clear, useful, and depend
 
 <strong>Expertise</strong>
 
-<br>
-
 <img src="https://img.shields.io/badge/Web_Development-C66B3D?style=flat-square" alt="Web Development">
 <img src="https://img.shields.io/badge/Backend_Systems-606C38?style=flat-square" alt="Backend Systems">
 <img src="https://img.shields.io/badge/Server_%26_Linux-B08B6E?style=flat-square" alt="Server and Linux">
@@ -36,7 +34,7 @@ From real-world problems to digital products that feel clear, useful, and depend
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="OpenResty" title="OpenResty">
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare">
 
-<br>
+<br><br>
 
 <strong>Selected work</strong>
 
