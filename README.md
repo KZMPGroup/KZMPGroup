@@ -34,11 +34,10 @@ From real-world problems to digital products that feel clear, useful, and depend
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="OpenResty" title="OpenResty">
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare">
 
-<br><br>
+<br>
 
 <strong>Selected work</strong>
 
-<br>
 
 <img src="https://img.shields.io/badge/e--JOLA-Digital_Learning-606C38?style=flat-square" alt="e-JOLA">
 <a href="https://kiospanel.my.id"><img src="https://img.shields.io/badge/KiosPanel-Open-C66B3D?style=flat-square&logo=googlechrome&logoColor=white" alt="KiosPanel"></a>
